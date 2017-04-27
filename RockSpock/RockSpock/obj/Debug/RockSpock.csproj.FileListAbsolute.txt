@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\devCode\C#\RockSpock\RockSpock\RockSpock\bin\Debug\RockSpock.exe.config
+\\Mac\Home\Desktop\devCode\C#\RockSpock\RockSpock\RockSpock\bin\Debug\RockSpock.exe
+\\Mac\Home\Desktop\devCode\C#\RockSpock\RockSpock\RockSpock\bin\Debug\RockSpock.pdb
+\\Mac\Home\Desktop\devCode\C#\RockSpock\RockSpock\RockSpock\obj\Debug\RockSpock.exe
+\\Mac\Home\Desktop\devCode\C#\RockSpock\RockSpock\RockSpock\obj\Debug\RockSpock.pdb
+\\Mac\Home\Desktop\devCode\C#\RockSpock\RockSpock\RockSpock\obj\Debug\RockSpock.csprojResolveAssemblyReference.cache
